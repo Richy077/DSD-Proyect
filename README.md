@@ -44,4 +44,4 @@ Este código se utilizó para calcular la edad promedio de los registros agrupad
 
 Es clave recalcar que se podrían realizar múltiples combinaciones de variables con lo cual también se pudo obtener diversos resultados e interpretaciones.
 
-En resumen, mediante el uso de códigos de Python y técnicas de análisis de datos aprendidas en Coursera y demás, pudimos obtener una visión detallada de los patrones migratorios en Ecuador en el año 2023, lo que nos permite comprender mejor su impacto en diversos aspectos socioeconómicos del país.
+Para concluir se menciona que, mediante el uso de códigos de Python y técnicas de análisis de datos, aprendidas en Coursera y demás, se pudo obtener una visión más detallada de los patrones migratorios en Ecuador en el año 2023, lo que nos permite comprender mejor su impacto en diversos aspectos socioeconómicos del país.
